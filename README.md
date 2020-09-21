@@ -1,4 +1,5 @@
 # Jupyter Notebook Git Repo Template
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcullan/jupyer-template-explainer/master)
 
 `git` is great for Jupyter Notebooks\*! 
 
